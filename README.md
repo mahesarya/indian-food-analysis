@@ -1,5 +1,7 @@
 # indian-food-analysis
 
+https://nbviewer.jupyter.org/github/mahesarya/indian-food-analysis/blob/main/food%20data%20analysis.ipynb
+
 ## Indian Food 101
 **Data about 255 traditional and famous dishes in India**
 
